@@ -2,3 +2,5 @@
 Bài 2 vẽ sơ đò khối 
 Input: Một số nguyên dương n.
 Output: Thông báo n là số nguyên tố hoặc không phải số nguyên tố.
+example: nhập 7
+kết quả: 7 là số nguyên tố 
